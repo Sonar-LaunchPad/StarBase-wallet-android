@@ -21,7 +21,7 @@ fi
 
 ####################################
 DOCKER_IMAGE="horizontalsystems/android-release-build"
-GIT_REPO="https://github.com/horizontalsystems/unstoppable-wallet-android"
+GIT_REPO="https://github.com/sonar-launchpad/starbase-wallet-android"
 WORK_DIR="$PWD/app"
 TAG=$1
 
